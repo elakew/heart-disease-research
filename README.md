@@ -4,6 +4,8 @@ In this project, I reviewed and analyzed data from a sample of patients evaluate
 
 The following Python packages were utilized:
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
 - SciPy
+- Statsmodels
