@@ -2,6 +2,10 @@
 
 In this project, I reviewed and analyzed data from a sample of patients evaluated for heart disease at the Cleveland Clinic Foundation. The data was downloaded from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease). We will study a number of **quantitative, binary, and categorical variables**, produce **boxplots**, and employ **hypothesis testing** to better understand the relationships between the variables.
 
+Focus Areas for Analysis
+Determine whether there is an association between people with heart disease and another healther indicator such as high cholesterol, fasting blood sugar, and maximum heart rate.
+Utilize hypothesis testing - namely one-sample t-test, binomial test, two-sample t-test, ANOVA test, Tukey's range test, and chi-square test - to draw inferences about a population from the sample of data.
+
 The following Python packages were utilized:
 - Pandas
 - NumPy
